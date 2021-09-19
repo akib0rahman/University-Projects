@@ -1,0 +1,12 @@
+Project Name : University Management System
+Section  : "H"
+
+Group member 1 :
+
+Name : RAHMAN,MD.AKIB UR
+Id   : 19-40279-1
+
+Group member 2 :
+
+Name : DEB,KABYO
+Id   : 19-40242-1
